@@ -82,4 +82,8 @@ caesar-cipher/
 pytest tests/ -v
 ```
 
-All 20 tests should pass with no external packages.
+## Preview
+
+![Caesar Cipher Screenshot](assets/screenshot1.PNG)
+![Caesar Cipher Screenshot](assets/screenshot2.PNG)
+![Caesar Cipher Screenshot](assets/screenshot3.PNG)
